@@ -7,5 +7,5 @@ function sayHelloTo(name) {
 sayHelloTo("Woody");
 
 //!!START SILENT
-module.exports = { sayHelloTo };
+module.exports = sayHelloTo;
 //!!END
